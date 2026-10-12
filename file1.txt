@@ -1,2 +1,6 @@
 "Hello DevOps" 
+<<<<<<< HEAD
 "Feature Branch" 
+=======
+"Bug Fixed" 
+>>>>>>> bugfix
