@@ -2,4 +2,8 @@
 "Feature Branch" 
 "Bug Fixed" 
 "Bug Fixed" 
+<<<<<<< HEAD
 "Feature Branch" 
+=======
+"Bug Fixed" 
+>>>>>>> bugfix3
